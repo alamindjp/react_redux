@@ -1,8 +1,4 @@
-<center>
-
 ### Welcome To React Redux Cheat Sheet.
-
-</center>
 
 # What is redux ?
 Redux is a state management library for JavaScript apps. We can use with any JS library or framework like React, Angular, or Vue. it is a global state management library.
@@ -176,7 +172,7 @@ const cartReducer = (state = initialCartState, action) => {
 Redux Toolkit is available as a package on NPM for use with a module bundler or in a Node application:
 
 ###### if you use npm 
-```
+``` javascript
 npm install @reduxjs/toolkit
 ```
 
