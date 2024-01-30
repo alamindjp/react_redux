@@ -171,12 +171,12 @@ const cartReducer = (state = initialCartState, action) => {
 
 Redux Toolkit is available as a package on NPM for use with a module bundler or in a Node application:
 
-###### if you use npm 
-``` javascript
+###### # If you use npm 
+```
 npm install @reduxjs/toolkit
 ```
 
-###### if you use yarn
+###### # Or if you use yarn
 ```
 yarn add @reduxjs/toolkit
 ```
